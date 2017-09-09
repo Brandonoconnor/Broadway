@@ -1,0 +1,38 @@
+* {
+  text-align: center;
+}
+h1 {
+  color: white;
+  font-size: 70px;
+}
+.layout {
+    background-image:
+    url("/Users/brandon/Desktop/Broadway/resources/images/the.jpeg");
+    background-repeat: repeat-x;
+}
+a {
+  color: white;
+  font-size: 18px;
+}
+.last {
+  text-align: left !important;
+  background-color: lightgray;
+  font-size: 13px;
+}
+.largetext {
+  font-size: 32px;
+  font-weight: bold;
+}
+.mediumtext{
+  font-size: 23px;
+  font-weight: bold;
+}
+.whitemediumtext {
+  color: white;
+  font-size: 32px;
+  background-image: image();
+  font-weight: bold;
+  background-image:
+  url("/Users/brandon/Desktop/Broadway/resources/images/the.jpeg");
+  background-repeat: repeat-x;
+}
